@@ -13,7 +13,7 @@ sections:
       personnelle
     actions: []
     media:
-      url: /images/main-hero.svg
+      url: /images/Capture d’écran 2025-02-18 012518.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
@@ -66,7 +66,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/Capture d’écran 2025-02-18 012101.png
           styles:
             self:
               borderRadius: x-large
@@ -76,7 +76,7 @@ sections:
           Recommandations de carrières et formations
           Accès direct aux offres d'emplois et écoles partenaires
         image:
-          url: /images/icon2.svg
+          url: /images/Capture d’écran 2025-02-18 012332.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
@@ -95,12 +95,12 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: ''
-        subtitle: ''
+        subtitle: Assistant personnel IA
         text: |
           Automatisation des tâches (vols, hôtels, paiements, RDV)
           Comparaison des meilleures offres en fonction du budget
         image:
-          url: /images/icon3.svg
+          url: /images/Capture d’écran 2025-02-18 012427.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
@@ -158,9 +158,9 @@ sections:
       IA et automatisation : 200 milliards de dollars
     actions: []
     media:
-      url: /images/hero3.svg
       altText: Dope design preview
       type: ImageBlock
+      url: /images/Capture d’écran 2025-02-18 011913.png
     badge:
       label: ''
       color: text-primary
@@ -201,47 +201,6 @@ sections:
 
       581-446-1458
     actions: []
-    media:
-      type: FormBlock
-      fields:
-        - type: TextFormControl
-          name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-        - type: EmailFormControl
-          name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-        - type: TextareaFormControl
-          name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
     badge:
       type: Badge
       label: Contactez nous
