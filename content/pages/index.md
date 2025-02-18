@@ -72,10 +72,9 @@ sections:
               borderRadius: x-large
       - title: "IA Conseiller en Orientation \U0001F393"
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Recommandations de carrières et formations
+          Accès direct aux offres d'emplois et écoles partenaires
         image:
           url: /images/icon2.svg
           altText: Featured icon two
