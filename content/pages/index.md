@@ -95,7 +95,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Assistant personnel IA
-        subtitle: ''
+        subtitle: Assistant personnel IA
         text: |
           Automatisation des tâches (vols, hôtels, paiements, RDV)
           Comparaison des meilleures offres en fonction du budget
