@@ -187,9 +187,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: |
+      Marché FinTech : 4,7 milliards de dollars
+      Marché de l'emploi et de l'éducation : 800 milliards de dollars
+      IA et automatisation : 200 milliards de dollars
     actions:
       - label: Get started
         url: /
