@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: VISION-
+      text: "VISION-\_L'IA qui révolutionne la finance et la carrièr"
       color: text-dark
       type: TitleBlock
     subtitle: ''
