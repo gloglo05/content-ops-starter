@@ -71,7 +71,7 @@ sections:
             self:
               borderRadius: x-large
       - title: ''
-        subtitle: The Job Stuff
+        subtitle: ''
         text: |
           Recommandations de carrières et formations
           Accès direct aux offres d'emplois et écoles partenaires
