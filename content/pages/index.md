@@ -70,7 +70,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: "IA Conseiller en Orientation \U0001F393"
+      - title: ''
         subtitle: The Job Stuff
         text: |
           Recommandations de carrières et formations
