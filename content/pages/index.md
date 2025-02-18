@@ -160,6 +160,7 @@ sections:
     media:
       altText: Dope design preview
       type: ImageBlock
+      url: /images/hero2.svg
     badge:
       label: ''
       color: text-primary
