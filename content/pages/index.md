@@ -183,7 +183,7 @@ sections:
         alignItems: center
     type: GenericSection
   - title:
-      text: Business Consulting
+      text: Marché potentiel
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
