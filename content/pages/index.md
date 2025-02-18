@@ -186,7 +186,7 @@ sections:
       text: Potentiel du marché
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: ''
     text: |
       Marché FinTech : 4,7 milliards de dollars
       Marché de l'emploi et de l'éducation : 800 milliards de dollars
