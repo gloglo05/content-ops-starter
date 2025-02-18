@@ -530,19 +530,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    subtitle: ''
-    text: ''
-    actions: []
-    badge:
-      type: Badge
-      label: Contact Us
-      color: text-primary
-    colors: bg-light-fg-dark
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
