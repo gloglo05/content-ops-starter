@@ -94,7 +94,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Assistant personnel IA
+      - title: ''
         subtitle: Assistant personnel IA
         text: |
           Automatisation des tâches (vols, hôtels, paiements, RDV)
