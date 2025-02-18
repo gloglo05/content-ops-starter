@@ -537,7 +537,7 @@ sections:
       color: text-dark
     subtitle: ''
     text: |
-      Levée 500K$-100K$ avec un Cap de Valorisation de 5M$-10M$
+      Levée 50K$-500K$ avec un Cap de Valorisation de 5M$-10M$
       Vision cible 1M d'utilisateurs en 1 an et une valorisation 1B$ en 3 ans
 
       Rejoignez-nous pour construire la prochaine licorne IA !
