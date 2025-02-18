@@ -158,7 +158,6 @@ sections:
       IA et automatisation : 200 milliards de dollars
     actions: []
     media:
-      url: /images/hero3.svg
       altText: Dope design preview
       type: ImageBlock
     badge:
