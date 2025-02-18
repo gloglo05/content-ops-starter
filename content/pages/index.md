@@ -66,7 +66,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/Capture d’écran 2025-02-18 012101.png
           styles:
             self:
               borderRadius: x-large
