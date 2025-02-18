@@ -70,7 +70,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: ''
+      - title: "IA Conseiller en Orientation \U0001F393"
         subtitle: The Job Stuff
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
