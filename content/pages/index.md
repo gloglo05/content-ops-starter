@@ -192,6 +192,14 @@ sections:
       Vision cible 1M d'utilisateurs en 1 an et une valorisation 1B$ en 3 ans
 
       Rejoignez-nous pour construire la prochaine licorne IA !
+
+
+
+      Contact
+
+      sissokoglory\@gmail.com
+
+      581-446-1458
     actions: []
     media:
       type: FormBlock
