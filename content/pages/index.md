@@ -45,10 +45,9 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: "IA Conseiller Financier \U0001F525"
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Aide à l'investissement, optimisation des finances
+          Intermédiaire entre banques, assurances et utilisateurs.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
