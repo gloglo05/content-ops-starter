@@ -1,5 +1,5 @@
 ---
-title: CONTACT US
+title: ''
 slug: /
 sections:
   - type: GenericSection
