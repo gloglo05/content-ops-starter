@@ -44,7 +44,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: "IA Conseiller Financier \U0001F525"
+        subtitle: IA Conseiller Financier
         text: |
           Aide à l'investissement, optimisation des finances
           Intermédiaire entre banques, assurances et utilisateurs.
