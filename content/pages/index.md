@@ -160,6 +160,7 @@ sections:
     media:
       altText: Dope design preview
       type: ImageBlock
+      url: /images/Capture d’écran 2025-02-18 011913.png
     badge:
       label: ''
       color: text-primary
