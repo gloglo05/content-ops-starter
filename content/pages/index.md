@@ -100,7 +100,7 @@ sections:
           Automatisation des tâches (vols, hôtels, paiements, RDV)
           Comparaison des meilleures offres en fonction du budget
         image:
-          url: /images/icon3.svg
+          url: /images/Capture d’écran 2025-02-18 012427.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
