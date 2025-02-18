@@ -13,7 +13,7 @@ sections:
       personnelle
     actions: []
     media:
-      url: /images/main-hero.svg
+      url: /images/Capture d’écran 2025-02-18 012518.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
