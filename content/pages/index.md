@@ -76,7 +76,7 @@ sections:
           Recommandations de carrières et formations
           Accès direct aux offres d'emplois et écoles partenaires
         image:
-          url: /images/icon2.svg
+          url: /images/Capture d’écran 2025-02-18 012332.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
