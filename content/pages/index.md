@@ -191,14 +191,7 @@ sections:
       Marché FinTech : 4,7 milliards de dollars
       Marché de l'emploi et de l'éducation : 800 milliards de dollars
       IA et automatisation : 200 milliards de dollars
-    actions:
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
+    actions: []
     media:
       url: /images/hero3.svg
       altText: Dope design preview
