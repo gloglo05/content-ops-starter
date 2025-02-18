@@ -192,7 +192,7 @@ sections:
       Marché de l'emploi et de l'éducation : 800 milliards de dollars
       IA et automatisation : 200 milliards de dollars
     actions:
-      - label: Get started
+      - label: ''
         url: /
         icon: arrowRight
         iconPosition: right
