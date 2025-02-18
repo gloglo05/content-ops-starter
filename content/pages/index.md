@@ -12,15 +12,6 @@ sections:
       Vision - L'IA qui révolutionne la finance, la carrière et l'organisation
       personnelle
     actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: See Tutorials
         altText: ''
         url: /
