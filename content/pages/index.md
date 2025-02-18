@@ -183,7 +183,7 @@ sections:
         alignItems: center
     type: GenericSection
   - title:
-      text: Le marché potentiel
+      text: Potentiel du marché
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
