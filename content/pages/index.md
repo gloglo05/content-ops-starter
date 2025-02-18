@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Vision
+      text: VISION
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
